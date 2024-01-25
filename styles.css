@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  input {
+    padding: 5px;
+    margin-right: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
+  #resultado {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  #intentos {
+    margin-top: 10px;
+  }
+  
+  #mensajeMayorMenor {
+    margin-top: 10px;
+    color: red;
+  }
+  
